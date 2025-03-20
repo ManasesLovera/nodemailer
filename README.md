@@ -16,8 +16,8 @@ Once you have the environment variables set up, packages installed, and you modi
 ```bash
 node app.js
 ```
-You should see a message like this:
+You should see a message like this in the terminal:
 ```
 Message sent: <EmailID>
 ```
-This means the code works correctly, if you find any bug or issue don't hesitate to send an Issue or Pull Request and I'll see it.
+This means the code works correctly and you should see the email in your inbox, if you don't see it you should check the spam folder first. If you find any bug or issue don't hesitate to send an Issue or Pull Request and I'll see it.
